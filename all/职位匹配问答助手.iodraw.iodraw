@@ -40,7 +40,7 @@
             <mxPoint x="526.8620689655172" y="-55.793103448275815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x44wirX34zXu0-5zLAn-12" value="接入&lt;div&gt;匹配AI助手&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7x44wirX34zXu0-5zLAn-12" value="&lt;div&gt;进入匹配AI助手&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="316" y="214" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7x44wirX34zXu0-5zLAn-14" value="&lt;div&gt;获取职位信息&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;(职位要求、职位备注等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
