@@ -82,7 +82,7 @@
         <mxCell id="wacF-icVov4xM_VFBzav-23" value="&lt;div&gt;选择快捷问题&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;或输入文字／语音&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
           <mxGeometry x="91" y="424" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wacF-icVov4xM_VFBzav-38" value="是否进行咨询" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
+        <mxCell id="wacF-icVov4xM_VFBzav-38" value="疑问是否解决" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
           <mxGeometry x="82.5" y="642" width="129" height="44" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-8" value="匹配AI助手" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -140,6 +140,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1023" y="929" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wacF-icVov4xM_VFBzav-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wacF-icVov4xM_VFBzav-36" target="wacF-icVov4xM_VFBzav-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1248" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
