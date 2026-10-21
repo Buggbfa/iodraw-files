@@ -61,7 +61,7 @@
         <mxCell id="wacF-icVov4xM_VFBzav-4" value="解释匹配结果&lt;div&gt;（1、结合匹配结果和知识检索&lt;/div&gt;&lt;div&gt;2、依据不足走反馈）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1087" y="28" width="169" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wacF-icVov4xM_VFBzav-5" value="&amp;nbsp; &amp;nbsp; 问题反馈快捷填单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wacF-icVov4xM_VFBzav-5" value="&amp;nbsp; &amp;nbsp; 问题反馈快捷填单&lt;div&gt;（有对话记录，问题反馈总结填入）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1277" y="28" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
