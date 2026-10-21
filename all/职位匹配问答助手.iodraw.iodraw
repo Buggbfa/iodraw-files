@@ -73,7 +73,7 @@
         <mxCell id="wacF-icVov4xM_VFBzav-10" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
           <mxGeometry x="97" y="40" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wacF-icVov4xM_VFBzav-11" value="流程控制和输出检查&lt;div&gt;（固定流程、兜底、输出合规性检查）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
+        <mxCell id="wacF-icVov4xM_VFBzav-11" value="查看职位的匹配详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
           <mxGeometry x="87" y="133" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-8" value="匹配AI助手" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
