@@ -50,10 +50,10 @@
           <mxGeometry x="557" y="-26" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1121.5" y="-221" width="100" height="60" as="geometry" />
+          <mxGeometry x="1121.5" y="-196" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-2" value="匹配AI助手页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1111.5" y="-113" width="120" height="60" as="geometry" />
+          <mxGeometry x="1111.5" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-3" value="理解用户问题&lt;div&gt;（1、定位匹配项、2、&lt;span style=&quot;background-color: initial;&quot;&gt;未明确追问）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="946" y="30" width="120" height="60" as="geometry" />
