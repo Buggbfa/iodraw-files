@@ -80,7 +80,7 @@
           <mxGeometry x="87" y="216" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-8" value="匹配AI助手" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1171" y="368" width="309" height="304" as="geometry" />
+          <mxGeometry x="1171" y="368" width="309" height="833" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
