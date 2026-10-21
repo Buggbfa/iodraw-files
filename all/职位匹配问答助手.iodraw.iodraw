@@ -68,7 +68,7 @@
           <mxGeometry x="1111.5" y="123" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-7" value="用户" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="368" width="302" height="833" as="geometry" />
+          <mxGeometry x="869" y="368" width="302" height="1106" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-10" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
           <mxGeometry x="97" y="40" width="100" height="60" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="82.5" y="667" width="129" height="44" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-8" value="匹配AI助手" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1171" y="368" width="320" height="833" as="geometry" />
+          <mxGeometry x="1171" y="368" width="320" height="1105" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="wacF-icVov4xM_VFBzav-8" source="wacF-icVov4xM_VFBzav-14" target="wacF-icVov4xM_VFBzav-16">
           <mxGeometry relative="1" as="geometry">
