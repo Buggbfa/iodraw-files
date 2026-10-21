@@ -64,8 +64,8 @@
         <mxCell id="wacF-icVov4xM_VFBzav-5" value="&amp;nbsp; &amp;nbsp; 问题反馈快捷填单&lt;div&gt;（有对话记录，问题反馈总结填入）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1277" y="28" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wacF-icVov4xM_VFBzav-6" value="理解用户问题&lt;div&gt;（1、定位匹配项、2、&lt;span style=&quot;background-color: initial;&quot;&gt;未明确追问）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1111.5" y="106" width="120" height="60" as="geometry" />
+        <mxCell id="wacF-icVov4xM_VFBzav-6" value="流程控制和输出检查&lt;div&gt;（固定流程、兜底、输出合规性检查）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111.5" y="123" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
