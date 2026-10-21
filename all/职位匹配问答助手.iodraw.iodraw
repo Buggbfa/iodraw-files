@@ -91,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-14" value="当前匹配结果总结" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-8">
-          <mxGeometry x="95" y="224" width="129" height="44" as="geometry" />
+          <mxGeometry x="97" y="224" width="129" height="44" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-16" value="点问题反馈：进入匹配AI助手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-8">
           <mxGeometry x="13" y="327" width="120" height="60" as="geometry" />
