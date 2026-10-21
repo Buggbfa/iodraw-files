@@ -82,11 +82,8 @@
         <mxCell id="wacF-icVov4xM_VFBzav-8" value="匹配AI助手" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1171" y="368" width="309" height="833" as="geometry" />
         </mxCell>
-        <mxCell id="wacF-icVov4xM_VFBzav-13" value="当前匹配结果总结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-8">
-          <mxGeometry x="99" y="216" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wacF-icVov4xM_VFBzav-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-8">
-          <mxGeometry x="119" y="300" width="80" height="80" as="geometry" />
+        <mxCell id="wacF-icVov4xM_VFBzav-14" value="当前匹配结果总结" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-8">
+          <mxGeometry x="98" y="300" width="126" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
