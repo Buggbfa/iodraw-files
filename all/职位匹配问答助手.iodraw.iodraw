@@ -52,8 +52,8 @@
         <mxCell id="wacF-icVov4xM_VFBzav-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1101" y="-219" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wacF-icVov4xM_VFBzav-2" value="匹配AI助手页面&lt;br&gt;&lt;div&gt;(进入自动总结、用户对话咨询、历史记录分隔、常驻问题反馈入口)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1053.5" y="-117" width="195" height="60" as="geometry" />
+        <mxCell id="wacF-icVov4xM_VFBzav-2" value="匹配AI助手页面&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1053.5" y="-116" width="195" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
