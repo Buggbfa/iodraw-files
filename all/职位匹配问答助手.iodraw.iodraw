@@ -79,6 +79,9 @@
         <mxCell id="wacF-icVov4xM_VFBzav-12" value="点问题反馈：进入匹配AI助手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
           <mxGeometry x="87" y="216" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wacF-icVov4xM_VFBzav-23" value="&lt;div&gt;选择快捷问题&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;或输入文字／语音&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
+          <mxGeometry x="91" y="424" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-8" value="匹配AI助手" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1171" y="368" width="320" height="833" as="geometry" />
         </mxCell>
@@ -98,9 +101,6 @@
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-17" value="匹配无星级：&lt;div&gt;总结不匹配项，展示不匹配快捷提问&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-8">
           <mxGeometry x="187" y="327" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wacF-icVov4xM_VFBzav-23" value="点问题反馈：进入匹配AI助手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="966" y="594" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
