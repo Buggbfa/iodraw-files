@@ -93,14 +93,21 @@
         <mxCell id="wacF-icVov4xM_VFBzav-14" value="当前匹配结果总结" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-8">
           <mxGeometry x="96" y="225" width="129" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="wacF-icVov4xM_VFBzav-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wacF-icVov4xM_VFBzav-8" source="wacF-icVov4xM_VFBzav-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="96" y="454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-16" value="匹配有星级：&lt;div&gt;当前全部匹配，展示问题反馈入口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-8">
           <mxGeometry x="13" y="327" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wacF-icVov4xM_VFBzav-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wacF-icVov4xM_VFBzav-8" source="wacF-icVov4xM_VFBzav-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-17" value="匹配无星级：&lt;div&gt;总结不匹配项，展示不匹配快捷提问&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-8">
           <mxGeometry x="187" y="327" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wacF-icVov4xM_VFBzav-20" value="当前匹配结果总结" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-8">
-          <mxGeometry x="95.5" y="434" width="129" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
