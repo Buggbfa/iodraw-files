@@ -52,8 +52,11 @@
         <mxCell id="wacF-icVov4xM_VFBzav-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1101" y="-219" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wacF-icVov4xM_VFBzav-2" value="匹配AI助手页面&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wacF-icVov4xM_VFBzav-2" value="匹配AI助手页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1091" y="-115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wacF-icVov4xM_VFBzav-3" value="匹配AI助手页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1101" y="-105" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
