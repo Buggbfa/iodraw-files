@@ -81,7 +81,12 @@
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wacF-icVov4xM_VFBzav-7" source="wacF-icVov4xM_VFBzav-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="174.8571428571429" y="620.2857142857142" as="targetPoint" />
+            <mxPoint x="256" y="592" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="151" y="552" />
+              <mxPoint x="229" y="552" />
+              <mxPoint x="229" y="620" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-23" value="&lt;div&gt;选择快捷问题&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;或输入文字／语音&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
