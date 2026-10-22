@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="_3mt8sgVoPpBU6mUNb__">
-    <mxGraphModel dx="819" dy="882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,8 +167,8 @@
         <mxCell id="wacF-icVov4xM_VFBzav-36" value="匹配结果解释、检索相关知识" style="rounded=0;whiteSpace=wrap;html=1;" parent="wacF-icVov4xM_VFBzav-8" vertex="1">
           <mxGeometry x="24" y="531" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-25" value="点击“问题反馈”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-8">
-          <mxGeometry x="89" y="876" width="120" height="60" as="geometry" />
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-25" value="&lt;div&gt;打开原反馈表单&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;AI总结对话预填写&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-8">
+          <mxGeometry x="103" y="878" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wacF-icVov4xM_VFBzav-26" target="wacF-icVov4xM_VFBzav-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
