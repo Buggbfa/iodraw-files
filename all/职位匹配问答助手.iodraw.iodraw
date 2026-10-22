@@ -92,20 +92,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="wacF-icVov4xM_VFBzav-7" source="wacF-icVov4xM_VFBzav-38" target="hJb4j5HZ65Soue0ZTC0U-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="44.75862068965512" y="901.7241379310344" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="72" y="692" />
-              <mxPoint x="72" y="877" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-7" value="未解决" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hJb4j5HZ65Soue0ZTC0U-6">
-          <mxGeometry x="-0.0646" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-38" value="疑问是否解决" style="rhombus;whiteSpace=wrap;html=1;" parent="wacF-icVov4xM_VFBzav-7" vertex="1">
           <mxGeometry x="122" y="670" width="129" height="44" as="geometry" />
         </mxCell>
@@ -114,6 +100,15 @@
         </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-8" value="退出页面&lt;div&gt;提交评价回到匹配详情页&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
           <mxGeometry x="14" y="878" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.457;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wacF-icVov4xM_VFBzav-7" source="wacF-icVov4xM_VFBzav-38" target="hJb4j5HZ65Soue0ZTC0U-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="67" y="692" />
+              <mxPoint x="67" y="796" />
+              <mxPoint x="69" y="796" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-8" value="匹配AI助手" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1171" y="368" width="320" height="1105" as="geometry" />
