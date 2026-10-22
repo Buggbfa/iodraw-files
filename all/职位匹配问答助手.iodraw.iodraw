@@ -217,8 +217,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-35" value="&lt;h3&gt;用户使用流程&lt;/h3&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;" vertex="1" parent="1">
-          <mxGeometry x="828" y="401" width="95" height="60" as="geometry" />
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-36" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="803" y="324" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
