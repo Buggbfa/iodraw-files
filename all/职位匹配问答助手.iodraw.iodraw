@@ -82,9 +82,6 @@
         <mxCell id="wacF-icVov4xM_VFBzav-11" value="查看职位的匹配详情" style="rounded=0;whiteSpace=wrap;html=1;" parent="wacF-icVov4xM_VFBzav-7" vertex="1">
           <mxGeometry x="87" y="133" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wacF-icVov4xM_VFBzav-7" source="wacF-icVov4xM_VFBzav-12" target="wacF-icVov4xM_VFBzav-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-12" value="点问题反馈：进入匹配AI助手" style="rounded=0;whiteSpace=wrap;html=1;" parent="wacF-icVov4xM_VFBzav-7" vertex="1">
           <mxGeometry x="87" y="216" width="120" height="60" as="geometry" />
         </mxCell>
@@ -161,7 +158,7 @@
         <mxCell id="wacF-icVov4xM_VFBzav-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="wacF-icVov4xM_VFBzav-8" source="wacF-icVov4xM_VFBzav-17" target="wacF-icVov4xM_VFBzav-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wacF-icVov4xM_VFBzav-17" value="匹配无星级：&lt;div&gt;总结不匹配项，展示不匹配快捷提问&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="wacF-icVov4xM_VFBzav-8" vertex="1">
+        <mxCell id="wacF-icVov4xM_VFBzav-17" value="&lt;div&gt;总结不匹配项，展示不匹配快捷提问&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="wacF-icVov4xM_VFBzav-8" vertex="1">
           <mxGeometry x="187" y="327" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="wacF-icVov4xM_VFBzav-8" source="wacF-icVov4xM_VFBzav-26" target="wacF-icVov4xM_VFBzav-32" edge="1">
@@ -209,6 +206,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-23" target="hJb4j5HZ65Soue0ZTC0U-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wacF-icVov4xM_VFBzav-12" target="wacF-icVov4xM_VFBzav-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
