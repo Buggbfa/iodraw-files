@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="_3mt8sgVoPpBU6mUNb__">
-    <mxGraphModel dx="2049" dy="1606" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1103" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,9 +125,6 @@
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-23" value="点击“问题反馈”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
           <mxGeometry x="161" y="878" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-36" value="&lt;h3&gt;用户使用流程&lt;/h3&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
-          <mxGeometry x="-26" y="-31" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-8" value="匹配AI助手" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1171" y="368" width="320" height="969" as="geometry" />
         </mxCell>
@@ -219,6 +216,9 @@
               <mxPoint x="1334" y="511" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-37" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1738" y="355" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
