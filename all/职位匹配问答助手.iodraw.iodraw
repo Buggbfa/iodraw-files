@@ -82,11 +82,14 @@
         <mxCell id="wacF-icVov4xM_VFBzav-11" value="查看职位的匹配详情" style="rounded=0;whiteSpace=wrap;html=1;" parent="wacF-icVov4xM_VFBzav-7" vertex="1">
           <mxGeometry x="87" y="133" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wacF-icVov4xM_VFBzav-7" source="wacF-icVov4xM_VFBzav-12" target="wacF-icVov4xM_VFBzav-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-12" value="点问题反馈：进入匹配AI助手" style="rounded=0;whiteSpace=wrap;html=1;" parent="wacF-icVov4xM_VFBzav-7" vertex="1">
           <mxGeometry x="87" y="216" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-23" value="&lt;div&gt;选择快捷问题&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;或输入文字／语音&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="wacF-icVov4xM_VFBzav-7" vertex="1">
-          <mxGeometry x="91" y="424" width="120" height="60" as="geometry" />
+          <mxGeometry x="91" y="426" width="120" height="58" as="geometry" />
         </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wacF-icVov4xM_VFBzav-7" source="wacF-icVov4xM_VFBzav-38" target="hJb4j5HZ65Soue0ZTC0U-1">
           <mxGeometry relative="1" as="geometry">
