@@ -96,9 +96,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="44.75862068965512" y="901.7241379310344" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="147" y="800" />
-              <mxPoint x="39" y="800" />
-              <mxPoint x="39" y="888" />
+              <mxPoint x="72" y="689" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -114,7 +112,7 @@
           <mxGeometry x="87" y="788" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-8" value="退出页面&lt;div&gt;提交评价回到匹配详情页&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
-          <mxGeometry x="15" y="888" width="120" height="60" as="geometry" />
+          <mxGeometry x="12" y="907" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-8" value="匹配AI助手" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1171" y="368" width="320" height="1105" as="geometry" />
