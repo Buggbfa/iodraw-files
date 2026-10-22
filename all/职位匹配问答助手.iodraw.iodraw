@@ -149,13 +149,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wacF-icVov4xM_VFBzav-18">
-          <mxGeometry x="0.1366" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-14" value="当前匹配结果总结" style="rhombus;whiteSpace=wrap;html=1;" parent="wacF-icVov4xM_VFBzav-8" vertex="1">
-          <mxGeometry x="94" y="185" width="129" height="44" as="geometry" />
+          <mxGeometry x="98.5" y="163" width="129" height="44" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wacF-icVov4xM_VFBzav-8" source="wacF-icVov4xM_VFBzav-16" target="wacF-icVov4xM_VFBzav-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
