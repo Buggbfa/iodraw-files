@@ -226,6 +226,9 @@
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.466;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-37" target="hJb4j5HZ65Soue0ZTC0U-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-41" value="意图识别，并定位匹配项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1775" y="619" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
