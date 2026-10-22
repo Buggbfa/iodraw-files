@@ -167,6 +167,9 @@
         <mxCell id="wacF-icVov4xM_VFBzav-36" value="匹配结果解释、检索相关知识" style="rounded=0;whiteSpace=wrap;html=1;" parent="wacF-icVov4xM_VFBzav-8" vertex="1">
           <mxGeometry x="24" y="531" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-25" value="点击“问题反馈”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-8">
+          <mxGeometry x="89" y="876" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wacF-icVov4xM_VFBzav-26" target="wacF-icVov4xM_VFBzav-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -185,6 +188,9 @@
               <mxPoint x="1056" y="1038" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-23" target="hJb4j5HZ65Soue0ZTC0U-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
