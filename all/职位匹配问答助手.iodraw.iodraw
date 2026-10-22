@@ -116,7 +116,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-23" value="继续咨询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-23" value="点击“问题反馈”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wacF-icVov4xM_VFBzav-7">
           <mxGeometry x="161" y="878" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wacF-icVov4xM_VFBzav-8" value="匹配AI助手" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
