@@ -290,6 +290,11 @@
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-56" value="查询适用知识&lt;div&gt;（关联匹配项、相似问）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1775" y="911" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1971.8571428571427" y="1039" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-57" value="依据是否足够" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1770.5" y="1017" width="129" height="44" as="geometry" />
         </mxCell>
@@ -297,6 +302,9 @@
           <mxGeometry x="1775" y="1098" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-57" target="hJb4j5HZ65Soue0ZTC0U-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-61" target="hJb4j5HZ65Soue0ZTC0U-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-61" value="4、检查输出内容&lt;div&gt;（回答边界、安全合规）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
