@@ -299,6 +299,12 @@
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-57" target="hJb4j5HZ65Soue0ZTC0U-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-61" value="生成匹配结果解释&lt;div&gt;（直接回答→对照差异→下一步）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1775" y="1188" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=0.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-59" target="hJb4j5HZ65Soue0ZTC0U-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
