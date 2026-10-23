@@ -325,7 +325,7 @@
             <mxPoint x="1833" y="1188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-65" value="依据是否足够" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-65" value="检查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1770.5" y="1272" width="129" height="44" as="geometry" />
         </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-68" value="回答依据不足兜底，建议去问题反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
