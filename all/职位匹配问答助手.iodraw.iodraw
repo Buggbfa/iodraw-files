@@ -284,7 +284,7 @@
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-53" value="3、追问具体由疑问的匹配项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1980" y="717" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-56" value="读取本次所需信息&lt;div&gt;（职位信息、简历信息、匹配结果）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-56" value="查询适用知识&lt;div&gt;（关联匹配项、相似问）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1775" y="911" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
