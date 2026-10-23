@@ -242,6 +242,19 @@
             <mxPoint x="2015.4" y="747" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-52" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hJb4j5HZ65Soue0ZTC0U-47">
+          <mxGeometry x="-0.2661" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-43" target="hJb4j5HZ65Soue0ZTC0U-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-51" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hJb4j5HZ65Soue0ZTC0U-50">
+          <mxGeometry x="-0.4502" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-43" value="可以进入解释？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1770.5" y="725" width="129" height="44" as="geometry" />
         </mxCell>
