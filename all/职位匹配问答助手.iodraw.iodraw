@@ -299,13 +299,16 @@
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-57" target="hJb4j5HZ65Soue0ZTC0U-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-61" value="检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-61" value="4、检查输出内容&lt;div&gt;（回答边界、安全合规）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1775" y="1188" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-59" target="hJb4j5HZ65Soue0ZTC0U-61">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1833" y="1188" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-64" value="4、检查输出内容&lt;div&gt;（回答边界、安全合规）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="1198" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
