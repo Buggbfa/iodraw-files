@@ -355,6 +355,9 @@
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-79" value="输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1775" y="1351" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-81" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1629" y="373" width="80" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
