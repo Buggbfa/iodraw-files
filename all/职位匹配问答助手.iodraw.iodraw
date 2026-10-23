@@ -248,7 +248,7 @@
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-44" value="读取本次所需信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1775" y="808" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-48" value="自动臧姐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-48" value="自动总结匹配详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1770.5" y="432" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
