@@ -325,9 +325,15 @@
             <mxPoint x="1833" y="1188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-65">
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-65" target="hJb4j5HZ65Soue0ZTC0U-75">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1943.2857142857142" y="1294" as="targetPoint" />
+            <mxPoint x="1966" y="1294" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1921" y="1294" />
+              <mxPoint x="1921" y="1295" />
+              <mxPoint x="1943" y="1295" />
+              <mxPoint x="1943" y="1294" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-65" value="检查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -335,6 +341,9 @@
         </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-68" value="回答依据不足兜底，建议去问题反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1980" y="1009" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-75" value="回答依据不足兜底，建议去问题反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="1264" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
