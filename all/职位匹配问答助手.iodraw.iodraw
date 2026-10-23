@@ -258,6 +258,11 @@
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-43" value="可以进入解释？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1770.5" y="725" width="129" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-44" target="hJb4j5HZ65Soue0ZTC0U-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1835" y="916.1666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-44" value="读取本次所需信息&lt;div&gt;（职位信息、简历信息、匹配结果）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1775" y="808" width="120" height="60" as="geometry" />
         </mxCell>
@@ -278,6 +283,9 @@
         </mxCell>
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-53" value="3、追问具体由疑问的匹配项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1980" y="717" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-56" value="读取本次所需信息&lt;div&gt;（职位信息、简历信息、匹配结果）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1775" y="911" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
