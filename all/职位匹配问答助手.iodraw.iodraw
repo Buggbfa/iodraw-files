@@ -226,7 +226,7 @@
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-39" value="收到用户输入的问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1775" y="524" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-37">
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJb4j5HZ65Soue0ZTC0U-37" target="hJb4j5HZ65Soue0ZTC0U-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1831" y="437" as="targetPoint" />
           </mxGeometry>
@@ -248,8 +248,8 @@
         <mxCell id="hJb4j5HZ65Soue0ZTC0U-44" value="读取本次所需信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1775" y="808" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hJb4j5HZ65Soue0ZTC0U-48" value="收到用户输入的问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1777" y="445" width="120" height="60" as="geometry" />
+        <mxCell id="hJb4j5HZ65Soue0ZTC0U-48" value="自动臧姐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770.5" y="432" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
